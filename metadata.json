@@ -1,0 +1,5 @@
+{
+  "name": "youtube_clone",
+  "description": "A YouTube-inspired video platform that uses Gemini AI to generate infinite, dynamic video feeds and content suggestions based on your search queries.",
+  "requestFramePermissions": []
+}
